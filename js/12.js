@@ -1,7 +1,9 @@
 // funciones - function declaration
 
-function sumar() {
-    console.log(3 + 2)
+function sumar(num1, num2 = 0) {
+    console.log(num1 + num2)
 }
 
-sumar()
+sumar(10,2)
+sumar(8,2)
+sumar(100)
