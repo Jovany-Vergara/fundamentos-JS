@@ -1,5 +1,7 @@
 // funciones - function declaration
 
-function sumar(a, b) {
-    return a + b;
+function sumar() {
+    console.log(3 + 2)
 }
+
+sumar()
