@@ -10,3 +10,10 @@ if(disponible > retirar){
   // no se cumple la condición
   console.log("Fondos insuficientes")
 }
+
+/**
+ * > - Mayor Que
+ * < - Menor Que
+ * >= - Mayor o Igual
+ * <= - Menor o Igual
+ */
